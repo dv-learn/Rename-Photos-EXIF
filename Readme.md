@@ -13,6 +13,8 @@ You do NOT need this for every app you code along.
 `deactivate`
 
 
+
+
 # Install packages
 - Pillow: This is required to read EXIF data of images.
 1. Follow these steps to install required dependencies.
@@ -21,13 +23,23 @@ You do NOT need this for every app you code along.
 
 (This command will install all the required dependencies.)
 
+
+
+
+
 # Prepare data to run program, copy some of the photos of your to directory
 - Copy some of the photos to the directory, where program should start reading photos from that directory.
+- Change the dir variable used in the code to the path to directory on your machine, where photos are stored.
+- For example, on your machine directory having photos is /Users/xyz/Documents/photos/ then 
+change dir variable with this value "/Users/xyz/Documents/photos/"
+
+
+
+
 
 ***
-Change the **dir variable used in the code to the path to directory on your machine, where photos are stored.
-For example, on your machine directory having photos is /Users/xyz/Documents/photos/ then 
-change dir variable with this value "/Users/xyz/Documents/photos/"
+Solve some problem with code
 ---
 ---
+
 
