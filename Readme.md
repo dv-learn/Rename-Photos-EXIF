@@ -35,6 +35,7 @@ change dir variable with this value "/Users/xyz/Documents/photos/"
 
 
 
+# Download sort_photos.py file and run the program.
 
 
 ***
